@@ -1,3 +1,6 @@
+## 原文
+https://sourcemaking.com/refactoring/smells/long-method
+
 ## 迹象和症状
 一个方法包含了太多行代码。通常来说，对于任何长于10行的方法，我们都应该问问自己是否能优化它。   
 ![long method](images/long-method-1.png)
